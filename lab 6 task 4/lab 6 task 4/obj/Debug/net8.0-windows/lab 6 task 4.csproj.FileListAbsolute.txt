@@ -1,0 +1,16 @@
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\lab_6_task_4.Form1.resources
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\lab 6 task 4.csproj.GenerateResource.cache
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\lab 6 task 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\lab 6 task 4.AssemblyInfoInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\lab 6 task 4.AssemblyInfo.cs
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\lab 6 task 4.csproj.CoreCompileInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\bin\Debug\net8.0-windows\lab 6 task 4.exe
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\bin\Debug\net8.0-windows\lab 6 task 4.deps.json
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\bin\Debug\net8.0-windows\lab 6 task 4.runtimeconfig.json
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\bin\Debug\net8.0-windows\lab 6 task 4.dll
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\bin\Debug\net8.0-windows\lab 6 task 4.pdb
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\lab 6 task 4.dll
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\refint\lab 6 task 4.dll
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\lab 6 task 4.pdb
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\lab 6 task 4.genruntimeconfig.cache
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 4\lab 6 task 4\obj\Debug\net8.0-windows\ref\lab 6 task 4.dll

@@ -1,0 +1,16 @@
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\bin\Debug\net8.0-windows\update calculator.exe
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\bin\Debug\net8.0-windows\update calculator.deps.json
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\bin\Debug\net8.0-windows\update calculator.runtimeconfig.json
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\bin\Debug\net8.0-windows\update calculator.dll
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\bin\Debug\net8.0-windows\update calculator.pdb
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\update_calculator.Form1.resources
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\update calculator.csproj.GenerateResource.cache
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\update calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\update calculator.AssemblyInfoInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\update calculator.AssemblyInfo.cs
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\update calculator.csproj.CoreCompileInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\update calculator.dll
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\refint\update calculator.dll
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\update calculator.pdb
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\update calculator.genruntimeconfig.cache
+C:\Users\Fazeel Nadeem\source\repos\update calculator\update calculator\obj\Debug\net8.0-windows\ref\update calculator.dll
