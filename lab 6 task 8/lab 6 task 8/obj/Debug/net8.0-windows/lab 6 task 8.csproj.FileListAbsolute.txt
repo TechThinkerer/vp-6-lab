@@ -1,0 +1,16 @@
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\bin\Debug\net8.0-windows\lab 6 task 8.exe
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\bin\Debug\net8.0-windows\lab 6 task 8.deps.json
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\bin\Debug\net8.0-windows\lab 6 task 8.runtimeconfig.json
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\bin\Debug\net8.0-windows\lab 6 task 8.dll
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\bin\Debug\net8.0-windows\lab 6 task 8.pdb
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\lab_6_task_8.Form1.resources
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\lab 6 task 8.csproj.GenerateResource.cache
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\lab 6 task 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\lab 6 task 8.AssemblyInfoInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\lab 6 task 8.AssemblyInfo.cs
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\lab 6 task 8.csproj.CoreCompileInputs.cache
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\lab 6 task 8.dll
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\refint\lab 6 task 8.dll
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\lab 6 task 8.pdb
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\lab 6 task 8.genruntimeconfig.cache
+C:\Users\Fazeel Nadeem\source\repos\lab 6 task 8\lab 6 task 8\obj\Debug\net8.0-windows\ref\lab 6 task 8.dll
